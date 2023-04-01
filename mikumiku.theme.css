@@ -1,0 +1,27 @@
+/**
+ * @name Miku-Miku
+ * @author Алексей Александрович
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/50191-miku-miku.html
+ * @authorLink https://vsthemes.org/user/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87/
+ * @authorId 45554
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.25;
+    --messagetransparency: 0.25;
+    --guildchanneltransparency: 0.45;
+    --memberlistransparency: 0.45;
+    --accentcolor: 28,135,116;
+    --background: url("https://vsthemes.org/uploads/posts/2022-02/1645275897_02.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
